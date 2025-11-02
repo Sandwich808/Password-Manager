@@ -1,6 +1,12 @@
 #pragma once
-ref class generator
+ref class Generator
 {
+	int seedGenerator() {
 
+	}
+
+	int generate() {
+
+	}
 };
 
